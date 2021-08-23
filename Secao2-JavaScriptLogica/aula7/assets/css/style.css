@@ -24,3 +24,7 @@ body{
     background: rgb(6, 214, 40);
     padding: 10px 20px;
 }
+
+.bad {
+    background: rgb(230, 110, 120);
+}
