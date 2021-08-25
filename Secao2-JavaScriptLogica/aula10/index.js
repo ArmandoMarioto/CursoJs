@@ -32,10 +32,10 @@ switch (diaSemana){
     default:
         diaSemanaTexto = 'Dia indefinido.';
         break;
-
-
-        
 }
 
+console.log(diaSemanaTexto);
+console.log(diaSemanaTexto);
+console.log(diaSemanaTexto);
 console.log(diaSemanaTexto);
     
