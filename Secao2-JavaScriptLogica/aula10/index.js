@@ -32,6 +32,9 @@ switch (diaSemana){
     default:
         diaSemanaTexto = 'Dia indefinido.';
         break;
+
+
+        
 }
 
 console.log(diaSemanaTexto);
