@@ -35,7 +35,4 @@ switch (diaSemana){
 }
 
 console.log(diaSemanaTexto);
-console.log(diaSemanaTexto);
-console.log(diaSemanaTexto);
-console.log(diaSemanaTexto);
     
